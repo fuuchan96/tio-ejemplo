@@ -1,0 +1,5 @@
+ls -s   (muestra por consola lo que tiene la carpeta)
+
+echo "mensaje dentro del doc" >> nombredeldoc.txt  (crea el archivo desde consola)
+
+git log --oneline  (para ver el ID de cada commit realizado
